@@ -1,0 +1,141 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #F5F7FA;
+    font-style: normal;
+}
+.main {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+    width: 1200px;
+    height: 1319px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+    background-color: #FFFFFF;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.main_content {
+    margin-left: 90px;
+    margin-top: 100px;
+}
+aside {
+    background-color: #1E2939;
+    width: 370px;
+    color: #FFFFFF;
+
+}
+aside > div {
+    margin-left: 40px;
+    margin-top: 50px;
+}
+.contacts p {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    margin: 5px 0px;
+}
+.contacts p a{
+    font-weight: 400;
+    margin-left: 5px;
+    text-decoration: none;
+    color: #A8A8A8;
+}
+
+.tech ul, .soft ul{
+    padding: 0px;
+    margin-left: 20px;
+    color: #FB6D3A;
+}
+.tech span,.soft span {
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+h3 {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 10px;
+    margin-top: 40px;
+}
+h2 {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    margin: 10px 0px;
+}
+h4 {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    margin: 10px 0px;
+}
+h1 {
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    margin: 20px 0px;
+}
+.about_user p {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    width: 500px;
+    color: #595959;
+    margin: 25px 0px;
+}
+.projects ol {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    padding-left: 20px;
+    width: 465px;
+    margin-bottom: 50px;
+    margin-top: 10px;
+}
+
+.projects_link, .projects_link a{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    margin-left: 5px;
+    text-decoration: none;
+}
+.bracket {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+}
+.work {
+    margin-bottom: 45px;
+}
+.work ul {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    padding-left: 20px;
+    margin-bottom: 20px;
+    width: 505px;
+}
+.years {
+    margin: 10px 0px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+}
+.years span {
+    color: #000000;
+}
+h4 span {
+    color: #FB6D3A;
+}
+.education h4 {
+    color: #FB6D3A;
+}
